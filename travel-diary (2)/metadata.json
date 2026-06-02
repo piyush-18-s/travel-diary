@@ -1,0 +1,5 @@
+{
+  "name": "Travel Diary",
+  "description": "A comprehensive travel planning app that provides location insights, heritage, food, attractions, and builds personalized itineraries with budget calculations.",
+  "requestFramePermissions": []
+}
